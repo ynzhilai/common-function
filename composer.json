@@ -10,6 +10,7 @@
     }
   ],
   "require": {},
+  "minimum-stability":"dve",
   "autoload": {
     "psr-4": {
       "Ynzl\\Comm\\": "lib/comm"
