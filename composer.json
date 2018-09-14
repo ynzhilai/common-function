@@ -1,0 +1,18 @@
+{
+  "name": "ynzhilai/common-function",
+  "description": "try make a package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ynzhilai",
+      "email": "ynzhilai@163.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ynzl\\Comm\\": "lib/comm"
+    }
+  }
+}
