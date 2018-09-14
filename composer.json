@@ -9,6 +9,7 @@
       "email": "ynzhilai@163.com"
     }
   ],
+  "minimum-stability":"dev",
   "require": {
     "php":">=6.5"
   },
