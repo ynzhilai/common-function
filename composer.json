@@ -12,7 +12,6 @@
   "require": {
     "php":">=6.5"
   },
-  "minimum-stability":"dve",
   "autoload": {
     "psr-4": {
       "Ynzl\\Comm\\": "lib/comm"
